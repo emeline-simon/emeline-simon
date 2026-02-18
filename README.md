@@ -1,21 +1,15 @@
-
-![Role](https://img.shields.io/badge/role-researcher-903624)
-![Focus](https://img.shields.io/badge/focus-storytelling-b4ab93)
-![Thematics](https://img.shields.io/badge/thematics-medical_and_public_health_research-aa5621)
-![Language](https://img.shields.io/badge/language-baguette_🥖-732b1d)
-
 Hello!
 
-I'm a medical virologist and early-career epidemiology & public health researcher. My work focuses on infectious diseases and outbreak investigations.
+I’m a medical virologist and public health trainee working at the crossroads of research, outbreak response, and science advocacy. After a Ph.D. in Medical Virology and five years of research on human infectious diseases, I have been pursuing a Master of Public Health to get a complementary expertise in infectious disease epidemiology, pandemic preparedness and health policy.
 
-## 🛠️ Tech & tools
+Beyond my professional path, I’m passionated about science communication and advocacy. I am currently developing a non-profit, open-access platform to publish and share engaging articles on health, science, and medicine, while promoting inclusive and open science.
 
-- Languages: R, Python, LaTeX, Stata (training)
-- Analysis: tidyverse, data.table, ggplot2, epiR / EpiEstim, survival, scikit-learn (basics)
-- Reproducibility: Git, GitHub, R Markdown / Quarto, VS Code, Overleaf
-- Writing: LaTeX (local + Overleaf), Zotero + BibTeX
+This space hosts my work 
 
-## 📚 Research & publications
-
-- ORCID: [0000-000X-XXXX-XXXX](https://orcid.org/0000-000X-XXXX-XXXX)  
-  My publications, affiliations, and contributions are listed there.
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
