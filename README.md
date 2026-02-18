@@ -1,6 +1,8 @@
 ## Hello there!
 
-I'm a french medical virologist and early-career researcher in **epidemiology** and **public health** working at the crossroads of research, outbreak response, and science advocacy. Beyond my professional path, I’m passionated about science communication and making complex stuff feel readable (in my humble small way)! I'm currently developing a non-profit, open-access platform to publish and share articles on health, medicine, and science in general, hoping it evolves into an inclusive and participative science platform down the road!
+I'm a french medical virologist and early-career researcher in **epidemiology** and **public health** working at the crossroads of research, outbreak response, and science advocacy. Beyond my professional path, I’m passionated about science communication and making complex stuff feel readable (in my humble small way)! 
+
+I'm currently developing a non-profit, open-access platform to publish and share articles on health, medicine, and science in general, hoping it evolves into an inclusive and participative science platform down the road!
 
 This space hosts some of my work, analyses, and attempts at coding / developing stuff.
 
