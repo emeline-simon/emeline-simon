@@ -6,6 +6,11 @@ Beyond my professional path, I’m passionated about science communication and a
 
 This space hosts my work 
 
+### Tech stack
+
+<img src="https://skillicons.dev/icons?i=r,python,latex,git,github,vscode&perline=6" alt="Tech Stack" />
+
+
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Stata](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
