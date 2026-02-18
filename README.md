@@ -1,16 +1,13 @@
-## Hi there 👋
+I'm a medical virologist and early-career epidemiology & public health researcher. My work focuses on infectious diseases and outbreak investigations.
 
-<!--
-**emeline-simon/emeline-simon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech & tools
 
-Here are some ideas to get you started:
+- Languages: R, Python, LaTeX, Stata (training)
+- Analysis: tidyverse, data.table, ggplot2, epiR / EpiEstim, survival, scikit-learn (basics)
+- Reproducibility: Git, GitHub, R Markdown / Quarto, VS Code, Overleaf
+- Writing: LaTeX (local + Overleaf), Zotero + BibTeX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Research & publications
+
+- ORCID: [0000-000X-XXXX-XXXX](https://orcid.org/0000-000X-XXXX-XXXX)  
+  My publications, affiliations, and contributions are listed there.
