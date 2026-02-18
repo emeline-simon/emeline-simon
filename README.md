@@ -1,20 +1,14 @@
-Hello!
+## Hello there!
 
-I’m a medical virologist and public health trainee working at the crossroads of research, outbreak response, and science advocacy. After a Ph.D. in Medical Virology and five years of research on human infectious diseases, I have been pursuing a Master of Public Health to get a complementary expertise in infectious disease epidemiology, pandemic preparedness and health policy.
+I'm Emeline Simon, a medical virologist and early-career researcher in epidemiology and public health working at the crossroads of research, outbreak response, and science advocacy. Beyond my professional path, I’m passionated about science communication and making complex stuff feel readable (in my humble small way)! I'm currently developing a non-profit, open-access platform to publish and share articles on health, medicine, and science in general, hoping it evolves into an inclusive and participative science platform down the road!
 
-Beyond my professional path, I’m passionated about science communication and advocacy. I am currently developing a non-profit, open-access platform to publish and share engaging articles on health, science, and medicine, while promoting inclusive and open science.
+This space hosts some of my work, analyses, and attempts at coding / developing stuff.
 
-This space hosts my work 
+(Still a coding newbie but getting there!)
+ 
 
-### Tech stack
+<img src="https://skillicons.dev/icons?i=r,python,latex,vscode,git,github&perline=6" alt="Tech Stack" />
 
-<img src="https://skillicons.dev/icons?i=r,stata,python,latex,git,github,vscode&perline=6" alt="Tech Stack" />
-
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Stata](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Playing](https://img.shields.io/badge/Playing-TFT_-6A5ACD?style=flat-square)
+![Coding](https://img.shields.io/badge/Coding-SIR_animated_models_(for_fun)-276DC3?style=flat-square&logo=r&logoColor=white)
+![Writing](https://img.shields.io/badge/Writing-a_paper_on_climbing_halls_air_pollution-008080?style=flat-square&logo=latex&logoColor=white)
