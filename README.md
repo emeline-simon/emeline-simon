@@ -1,3 +1,11 @@
+
+![Role](https://img.shields.io/badge/role-researcher-903624)
+![Focus](https://img.shields.io/badge/focus-storytelling-b4ab93)
+![Thematics](https://img.shields.io/badge/thematics-medical_and_public_health_research-aa5621)
+![Language](https://img.shields.io/badge/language-baguette_🥖-732b1d)
+
+Hello!
+
 I'm a medical virologist and early-career epidemiology & public health researcher. My work focuses on infectious diseases and outbreak investigations.
 
 ## 🛠️ Tech & tools
