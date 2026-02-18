@@ -11,4 +11,4 @@ This space hosts some of my work, analyses, and attempts at coding / developing 
 
 ![Playing](https://img.shields.io/badge/Playing-TFT_-6A5ACD?style=flat-square)
 ![Coding](https://img.shields.io/badge/Coding-SIR_animated_models_(for_fun)-276DC3?style=flat-square&logo=r&logoColor=white)
-![Writing](https://img.shields.io/badge/Writing-a_paper_on_climbing_halls_air_pollution-008080?style=flat-square&logo=latex&logoColor=white)
+![Writing](https://img.shields.io/badge/Writing-a_paper_on_plastic_exposure_in_climbing_facilities-008080?style=flat-square&logo=latex&logoColor=white)
