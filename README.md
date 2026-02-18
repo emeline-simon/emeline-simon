@@ -8,7 +8,7 @@ This space hosts my work
 
 ### Tech stack
 
-<img src="https://skillicons.dev/icons?i=r,python,latex,git,github,vscode&perline=6" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=r,stata,python,latex,git,github,vscode&perline=6" alt="Tech Stack" />
 
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
