@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="">
+    <img src="https://raw.githubusercontent.com/emeline-simon/thesis/manuscript/wordcloud.png" alt="WordCloud Thesis" style="width:100%;">
+  </a>
+</p>
 ## Hello there!
 
 I'm a french medical virologist and early-career researcher in **epidemiology** and **public health** working at the crossroads of research, outbreak response, and science advocacy. Beyond my professional path, I’m passionated about science communication and making complex stuff feel readable (in my humble small way)! 
