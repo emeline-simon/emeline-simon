@@ -9,7 +9,7 @@ This space hosts some of my work, analyses, and attempts at coding / developing 
 *(Still a coding newbie but getting there!)*
  
 
-<img src="https://skillicons.dev/icons?i=r,python,latex,quarto,vscode,git,github&perline=6" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=r,python,latex,vscode,git,github&perline=6" alt="Tech Stack" />
 
 ![Playing](https://img.shields.io/badge/Playing-TFT_-6A5ACD?style=flat-square)
 ![Coding](https://img.shields.io/badge/Coding-SIR_animated_models_(for_fun)-276DC3?style=flat-square&logo=r&logoColor=white)
